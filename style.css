@@ -1,0 +1,172 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.lorem {
+    background-image: url(donation6.jpg);
+    text-align: center;
+}
+
+#help {
+    color: white;
+    font-size: 50px;
+}
+
+#dolor {
+    color: white;
+}
+
+#donate {
+    color: black;
+    font-size: 40px;
+    font-style: bolt;
+    width: 700;
+}
+
+#ipsum {
+    color: rgba(44, 39, 39, 0.795);
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(245, 54, 20), rgb(231, 53, 21));
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-style: bolt;
+    font-size: 20px;
+}
+
+.size {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.position {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.tk {
+    width: 20%;
+    box-shadow: 5000px 3000px 80px white;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgba(243, 242, 242, 0.801);
+    border-radius: 3px;
+    font-size: ;
+}
+
+.rupi {
+    border: 2px solid rgba(202, 17, 17, 0.87);
+    color: rgba(202, 17, 17, 0.87);
+    background-color: rgba(243, 159, 159, 0.507)
+}
+
+.color {
+    color: rgba(44, 39, 39, 0.795);
+}
+
+.grown {
+    color: rgba(102, 95, 95, 0.795);
+}
+
+hr {
+    width: 45%;
+    color: rgba(102, 95, 95, 0.795);
+}
+
+.family {
+    display: flex;
+}
+
+.section {
+    width: 300%;
+    margin-left: 4%;
+    margin-right: 3%;
+    box-shadow: 5px 5px 5px white;
+    padding: 15px;
+    border-radius: 2%;
+}
+
+#apple {
+    background-color: bisque;
+}
+
+#mango {
+    background-color: lemonchiffon;
+}
+
+#banana {
+    background-color: khaki;
+}
+
+.middle {
+    display: flex;
+}
+
+.high {
+    width: 30%;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-bottom: 0%;
+    margin-top: 10%;
+}
+
+.help {
+    text-align: center;
+}
+
+.submit {
+    display: flex;
+    margin-left: 450px;
+}
+
+.email {
+    width: 32%;
+    padding: 10px;
+    border-radius: 2px;
+    border: 2px solid rgba(219, 213, 213, 0.863);
+    background-color: rgba(219, 213, 213, 0.863);
+}
+
+.mail {
+    width: 13%;
+    background-color: rgba(209, 15, 15, 0.822);
+    border: 2px solid rgba(211, 105, 105, 0.822);
+    font-size: 15px;
+    border-radius: 2px;
+    color: white;
+}
+
+.food {
+    margin-left: 30px;
+    margin-right: 35px;
+    margin-top: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: bisque;
+}
+
+.footer {
+    background-color: rgba(5, 5, 5, 0.966);
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+#relif {
+    color: rgba(202, 17, 17, 0.87);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#donation {
+    color: white;
+    font-style: italic;
+}
